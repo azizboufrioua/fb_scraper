@@ -1,0 +1,7 @@
+.fbscrapenv/
+__pycache__/
+*.pyc
+scraped_data/
+.fbscrapenv/
+# Local configuration files
+*.env   
